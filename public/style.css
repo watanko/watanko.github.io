@@ -1,0 +1,56 @@
+body {
+    background: #f9f6f1;
+    color: #222;
+    font-family: 'MS Pゴシック', 'Osaka', 'メイリオ', monospace;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #e0d8c3;
+    border-bottom: 2px solid #bba;
+    padding: 1.5em 0 1em 0;
+    text-align: center;
+    box-shadow: 0 2px 8px #ccc8;
+}
+
+header h1 {
+    font-size: 2.2em;
+    margin: 0 0 0.2em 0;
+    font-family: 'MS ゴシック', monospace;
+    letter-spacing: 0.1em;
+}
+
+header p {
+    margin: 0;
+    color: #555;
+    font-size: 1em;
+}
+
+main {
+    max-width: 700px;
+    margin: 2em auto;
+    background: #fffefb;
+    border: 1px solid #e0d8c3;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px #ccc4;
+    padding: 2em 2em 1em 2em;
+}
+
+footer {
+    text-align: center;
+    color: #888;
+    font-size: 0.9em;
+    margin: 2em 0 1em 0;
+}
+
+hr {
+    border: none;
+    border-top: 1px dashed #bba;
+    margin: 2em 0;
+}
+
+ul,
+ol {
+    margin-left: 1.5em;
+}
